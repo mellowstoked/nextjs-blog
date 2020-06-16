@@ -12,7 +12,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Hi I am Cody McKeon and this is my first web site with Next.js and React. I envision this project becoming what I will be calling
+        vanseentials where it will be a place to go to for van life content. You will see vans for sale, products for sale, best practices, living practices, and
+        interesting stories about living in the van or mobile living. Most importantly it is a web site for me to practice coding and get my mind flowing in all mediums.</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
